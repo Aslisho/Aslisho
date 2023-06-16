@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @Aslisho
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on any projects just here for some experience 
+- 📫 How to reach me @aslish0 telegram or aslishomuzofirshoev@gmail.com email
+
+<!---
+Aslisho/Aslisho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
